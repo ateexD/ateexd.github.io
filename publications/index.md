@@ -8,7 +8,7 @@ comments: false
 ## [Low Cost Static Gesture Recognition System Using MEMS Acceleromters](http://ieeexplore.ieee.org/abstract/document/8016217/) 
     * Designed and constructed a glove that recognized static gestures.
     * Developed a light weight algorithm to identify alphabets in American Sign Language.
-    * Presented in `Global IoT Summit, Geneva, Switzerland`.
+    * Presented in **Global IoT Summit, Geneva, Switzerland**.
 
 ## Design Optimization of Activity Recognition System on An Embedded Platform
     * Modeled an activity recognition system using just accelerometer data to identify activities.
