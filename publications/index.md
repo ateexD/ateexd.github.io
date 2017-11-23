@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: My Publications
 tags: [Publications, IEEE]
 date: ''
 comments: false
