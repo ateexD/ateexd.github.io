@@ -14,4 +14,4 @@ comments: false
     * Modeled an activity recognition system using just accelerometer data to identify activities.
     * Engineered features to be minimalistic yet effective and worked on 3 datasets.
     * Deployed the above system on Raspberry Pi Zero.
-    * To be presented at Future of Information and Communication Conference, Singapore in April 2018.
+    * Presented at Future of Information and Communication Conference, Singapore in April 2018.

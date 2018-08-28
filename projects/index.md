@@ -6,7 +6,8 @@ comments: false
 ---
 ## Theater Occupancy Prediction [Current]
     * Working in collaboration with one of India's top 3 multiplex chains.
-    * Developing application to be deployed into production.
+    * Developed as an application deployed into production.
+    * Working on publishing findings as a research paper.
 
 ## SF_Automation
     * Created bots to automate tasks at SF.
